@@ -6,7 +6,7 @@ Desktop assistant coded in python which is capable of accessing the applications
 <br>
 -- Commands:
 <br>
- > stop the program - used to stop Bottop.
+ >> stop the program - used to stop Bottop.
 <br>
  > wake up - Bottop activates.
 <br>
