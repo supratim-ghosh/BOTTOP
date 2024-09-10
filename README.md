@@ -5,14 +5,13 @@ Desktop assistant coded in python which is capable of accessing the applications
 > Once the application is started, say "wake up" to activate Bottop. Once it gets activated, first it would greet the user then it would perform upon voice commands.
 <br>
 -- Commands:
+>> stop the program - used to stop Bottop.
 <br>
- >> stop the program - used to stop Bottop.
+> wake up - Bottop activates.
 <br>
- > wake up - Bottop activates.
+> sleep - Bottop becomes idle.
 <br>
- > sleep - Bottop becomes idle.
-<br>
- > open (application_name) - opens the application if it is present in computer; otherwise it would search for it online
+> open (application_name) - opens the application if it is present in computer; otherwise it would search for it online
 <br>
 > tell a joke - tells a joke.
 <br>
