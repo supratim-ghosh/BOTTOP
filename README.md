@@ -35,4 +35,4 @@ Desktop assistant coded in python which is capable of accessing the applications
 > minimize - minimizes the window.
 > <br>
 > maximize - maximize the window.
->xyz
+> xyz
