@@ -2,11 +2,11 @@
 Desktop assistant coded in python which is capable of accessing the applications of operating system as well as web browsing via voice commands.
 <br>
 -- Function:
-Once the application is started, say "wake up" to activate Bottop. Once it gets activated, first it would greet the user then it would perform upon voice commands.
+ Once the application is started, say "wake up" to activate Bottop. Once it gets activated, first it would greet the user then it would perform upon voice commands.
 <br>
 -- Commands:
 <br>
-> stop the program - used to stop Bottop.
+>> stop the program - used to stop Bottop.
 > <br>
 > wake up - Bottop activates.
 > <br>
