@@ -7,32 +7,51 @@ Desktop assistant coded in python which is capable of accessing the applications
 -- Commands:
 <br>
 >stop the program - used to stop Bottop.
-> <br>
+<br>
 > wake up - Bottop activates.
-> <br>
+<br>
 > sleep - Bottop becomes idle.
-> <br>
+<br>
 > open (application_name) - opens the application if it is present in computer; otherwise it would search for it online
-> <br>
+<br>
 > tell a joke - tells a joke.
-> <br>
+<br>
 > type - Bottop would type whatever is told.
-> <br>
+<br>
 > press enter - presses enter key.
-> <br>
+<br>
 > spacebar - presses spacebar key.
-> <br>
+<br>
 > select all - select all possible entities.
-> <br>
+<br>
 > undo - undo the last task.
-> <br>
+<br>
 > redo - redo the last task.
-> <br>
+<br>
 > save file - save the file.
-> <br>
+<br>
 > delete - deletes the entity.
-> <br>
+<br>
 > minimize - minimizes the window.
-> <br>
+<br>
 > maximize - maximize the window.
-> xyz
+<br>
+> go (direction) (number) times - goes in the direction the number of times directed.
+<br>
+> search - searches online about the query.
+<br>
+> play (video_name) on youtube - plays the first video result on youtube.
+<br>
+> play - plays the file.
+<br>
+> pause - pauses the file.
+<br>
+> full screen - goes in and out of fullscreen.
+<br>
+> set volume to (1-100)% - set desktop volume as directed.
+<br>
+> reload - reloads the window.
+<br>
+> close - closes the current tab.
+<br>
+> close all - closes the current application.
